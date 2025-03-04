@@ -11,3 +11,19 @@ Y1S1 Programming Concepts Assignment 2 - Durian Stall 2022
 ### Functions and modules
 - Menu handling
 - Transaction handling
+
+## Project Showcase
+Loading Page
+![Project Showcase](https://github.com/wthislifehuh/durian-stall-management/blob/main/durian-stall-demo/loading-page.png)
+Welcome Page
+![Project Showcase](https://github.com/wthislifehuh/durian-stall-management/blob/main/durian-stall-demo/welcome-page.png)
+Main Page
+![Project Showcase](https://github.com/wthislifehuh/durian-stall-management/blob/main/durian-stall-demo/main-page.png)
+Menu Handling Page
+![Project Showcase](https://github.com/wthislifehuh/durian-stall-management/blob/main/durian-stall-demo/menu-handling-page.png)
+View Menu Page
+![Project Showcase](https://github.com/wthislifehuh/durian-stall-management/blob/main/durian-stall-demo/view-menu-page.png)
+Add Durian Page
+![Project Showcase](https://github.com/wthislifehuh/durian-stall-management/blob/main/durian-stall-demo/add-durian-page.png)
+Transaction Handling Page
+![Project Showcase](https://github.com/wthislifehuh/durian-stall-management/blob/main/durian-stall-demo/transaction-handling-page.png)
